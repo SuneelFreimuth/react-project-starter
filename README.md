@@ -1,4 +1,4 @@
-# React Project Starter
+# React Project Template
 
 A simple React project template providing
 * [Sass](https://sass-lang.com/) for styling
