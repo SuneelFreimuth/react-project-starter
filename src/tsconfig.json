@@ -3,6 +3,7 @@
         "jsx": "react-jsx",
         "target": "ES6",
         "moduleResolution": "node",
-        "module": "ES2022"
+        "module": "ES2022",
+        "jsx": "react-jsx"
     }
 }
